@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ipupuehe.github.io/XTE/sitemap_index.txt
+Sitemap: https://ipupuehe.github.io/Yji/sitemap_index.txt
+Sitemap: https://ipupuehe.github.io/csw/sitemap_index.txt
+Sitemap: https://ipupuehe.github.io/qrt/sitemap_index.txt
